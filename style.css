@@ -553,7 +553,7 @@ p40{
 }
 @media screen and (max-width: 1080px){
     .title{
-        width: 500px;
+        width: 350px;
         margin: 62.5px;
     }
     nav li{
@@ -574,7 +574,8 @@ p40{
         flex-direction: column;
         align-items: center;
     }
-    .thumbail{
+    .thumbnail{
+        width: 150px;
         margin-bottom: 20px;
     }
     .center-text{
@@ -595,7 +596,9 @@ p40{
     p{
         text-align: center;
     }
-    
+    .modal-content{
+        width: 220px;
+    }
 }
 @media screen and (min-width: 1080px) and (max-width: 1300px){
     h3{
@@ -705,44 +708,44 @@ p40{
         margin-right: 30px;
     }
     .running{
-        width: 380px;    
+        width: 340px;    
     }
     .gym{
-        width: 380px;    
+        width: 340px;    
     }
     .scout{
-        width: 380px;
+        width: 340px;
         margin-left: 0px;
     }
     .randonne{
-        width: 380px;
+        width: 340px;
     }
     .info{
-        width: 380px;
+        width: 340px;
     }
     .montage{
-        width: 380px;
+        width: 340px;
     }
     .trip{
-        width: 380px;
+        width: 340px;
     }
     .history{
-        width: 380px;
+        width: 340px;
     }
     .college{
-        width: 380px;
+        width: 340px;
     }
     .lycee{
-        width: 380px;
+        width: 340px;
     }
     .sup{
-        width: 380px;
+        width: 340px;
     }
     .video{
-        width: 380px;
+        width: 340px;
     }
     .sup{
-        width: 380px;
+        width: 340px;
     }
     .rocket{
         width: 300px;
