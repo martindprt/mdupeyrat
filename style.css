@@ -213,6 +213,7 @@ footer{
     cursor: pointer;
     transition: transform 0.3s ease;
     border-radius: 200px;
+    margin-bottom: 100px;
 }
 
 
@@ -598,6 +599,9 @@ p40{
     }
     .modal-content{
         width: 220px;
+    }
+    p12{
+        text-align: center;
     }
 }
 @media screen and (min-width: 1080px) and (max-width: 1300px){
